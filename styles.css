@@ -75,13 +75,20 @@ text-align: left;
   padding: 10px;
 }
 .mypic {
-  width: 15%
+  width: 12%
 }
 .network {
   width: 25%;
   padding: 10px;
   }
-
+.Telecom {
+  width: 25%;
+  padding: 10px;
+  }
+.Power {
+  width: 25%;
+  padding: 10px;
+  }
 
 .bottom-container {
 background: #EAF6F6;
